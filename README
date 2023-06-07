@@ -1,0 +1,4 @@
+CMSC417 BitTorrent Project
+
+FORMAT TO RUN:
+./main.py [torrent file] [download path] [endgame/noendgame] [compact/nocompact] [own_ip] [port]
